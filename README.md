@@ -1,4 +1,4 @@
-# Projeto Mistery Letter
+# Projeto Mistery Letter [View/Ver](https://j-pster.github.io/mistery-letter/)
 Este projeto foi feito durante o bloco de Fundamentos na [Trybe](https://www.betrybe.com/) por _[João Pedro Viana Freitas](https://www.linkedin.com/in/joaopster/)_ :rocket:
 
 ### Descrição
